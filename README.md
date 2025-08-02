@@ -1,4 +1,4 @@
-<p align="center"><img src="https://via.placeholder.com/400x100?text=Photobooth+Logo" width="400" alt="Photobooth Logo"></p>
+<p align="center"><img src="https://snapdulu.id/assets/images/logos/logo.png" width="400" alt="Photobooth Logo"></p>
 
 <p align="center">
 <a href="https://github.com/dotprima/snapdulu/actions"><img src="https://img.shields.io/github/workflow/status/yourusername/photobooth/tests" alt="Build Status"></a>
@@ -63,7 +63,7 @@ Join our thriving community of photo booth operators and event planners. Share y
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Photobooth, please send an e-mail to our security team via [security@yourphotobooth.com](mailto:contact@snapdulu.id). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within Photobooth, please send an e-mail to our security team via [contact@snapdulu.id](mailto:contact@snapdulu.id). All security vulnerabilities will be promptly addressed.
 
 ## License
 
